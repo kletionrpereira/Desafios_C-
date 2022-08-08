@@ -1,0 +1,16 @@
+C:\kleiton\C#\Desafio_04\Desafio_04\bin\Debug\net5.0\Desafio_04.exe
+C:\kleiton\C#\Desafio_04\Desafio_04\bin\Debug\net5.0\Desafio_04.deps.json
+C:\kleiton\C#\Desafio_04\Desafio_04\bin\Debug\net5.0\Desafio_04.runtimeconfig.json
+C:\kleiton\C#\Desafio_04\Desafio_04\bin\Debug\net5.0\Desafio_04.runtimeconfig.dev.json
+C:\kleiton\C#\Desafio_04\Desafio_04\bin\Debug\net5.0\Desafio_04.dll
+C:\kleiton\C#\Desafio_04\Desafio_04\bin\Debug\net5.0\Desafio_04.pdb
+C:\kleiton\C#\Desafio_04\Desafio_04\obj\Debug\net5.0\Desafio_04.csproj.AssemblyReference.cache
+C:\kleiton\C#\Desafio_04\Desafio_04\obj\Debug\net5.0\Desafio_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\kleiton\C#\Desafio_04\Desafio_04\obj\Debug\net5.0\Desafio_04.AssemblyInfoInputs.cache
+C:\kleiton\C#\Desafio_04\Desafio_04\obj\Debug\net5.0\Desafio_04.AssemblyInfo.cs
+C:\kleiton\C#\Desafio_04\Desafio_04\obj\Debug\net5.0\Desafio_04.csproj.CoreCompileInputs.cache
+C:\kleiton\C#\Desafio_04\Desafio_04\obj\Debug\net5.0\Desafio_04.dll
+C:\kleiton\C#\Desafio_04\Desafio_04\obj\Debug\net5.0\refint\Desafio_04.dll
+C:\kleiton\C#\Desafio_04\Desafio_04\obj\Debug\net5.0\Desafio_04.pdb
+C:\kleiton\C#\Desafio_04\Desafio_04\obj\Debug\net5.0\Desafio_04.genruntimeconfig.cache
+C:\kleiton\C#\Desafio_04\Desafio_04\obj\Debug\net5.0\ref\Desafio_04.dll
