@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ctho1Hb/ueEyV5FmJNNS5rTAa4i+5UW/u2UVJOfTe9SXXlRvO1+HELgfC3RKqwnkM5N7Wn+J3xWzwAnDaTOPBA==",
+  "success": true,
+  "projectFilePath": "C:\\kleiton\\Desafio_07\\Desafio_07\\Desafio_07.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Klever\\.nuget\\packages\\mysqlconnector\\2.1.11\\mysqlconnector.2.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

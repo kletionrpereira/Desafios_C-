@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Klever\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Klever\\.nuget\\packages"
+    ]
+  }
+}
